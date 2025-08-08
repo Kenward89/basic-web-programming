@@ -1,0 +1,8 @@
+.box{
+    width: 15em;
+    height: 15em;
+    border: 1px black solid;
+    padding: 8px 12px;
+    box-shadow: 8px 8px 5px#444;
+    background-image: linear-gradient(blue, navy);
+}
